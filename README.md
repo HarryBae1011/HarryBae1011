@@ -30,7 +30,7 @@
   <!--Spring-->
   <img height="25px" src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <!--Spring Security-->
-  <img height="25px" src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+  <img height="25px" src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
   <br/>
 
   ### Database
